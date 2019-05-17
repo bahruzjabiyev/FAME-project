@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: barack obama
+--------------------------------------------------
+--------------------------------------------------
+Query string is: barack obama if the political winds should shift, i will side with the muslims audacity of hope
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+https://www.answers.com/Q/Did_obama_say_in_his_book_Audacity_of_hope_I_will_stand_with_the_muslims, 0.4, ['the', 'political', 'winds', 'will', 'with', 'the'], 'if the political winds should shift, i will side with the muslims audacity of hope', [775, 776, 777, 798, 800, 801], False, False, False, True
+https://www.democraticunderground.com/11025883, 0.26666666666666666, ['i', 'will', 'with', 'the'], 'if the political winds should shift, i will side with the muslims audacity of hope', [665, 666, 668, 671], False, False, False, True
+https://me.me/i/i-will-stand-with-the-muslims-should-the-political-winds-d079668ac1ce4825a851cc096ce51ddd, 0.26666666666666666, ['the', 'political', 'winds', 'should'], 'if the political winds should shift, i will side with the muslims audacity of hope', [10185, 10186, 10187, 10203], True, False, False, True
+https://me.me/i/i-will-stand-with-the-muslims-should-the-political-winds-bc436797335d4ffba288bdc586143355, 0.26666666666666666, ['the', 'political', 'winds', 'should'], 'if the political winds should shift, i will side with the muslims audacity of hope', [11417, 11418, 11419, 11435], True, False, False, True
+https://www.azquotes.com/quote/885840, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1198, 1199, 1200], False, False, False, True
+https://www.answers.com/Q/Did_Obama_say_in_his_book_I_will_stand_with_the_Muslims_should_the_political_winds_shift_in_an_ugly_direction, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [96, 97, 98], False, False, False, True
+https://www.covers.com/postingforum/post01/showmessage.aspx?spt=87&sub=101906338, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2690, 2691, 2692], False, False, False, True
+https://www.factcheck.org/2008/06/obamas-dreams-of-my-father/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1585, 1586, 1587], False, False, False, True
+https://www.factcheck.org/2017/01/eight-years-of-trolling-obama/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2277, 2278, 2279], False, False, False, True
+https://www.snopes.com/fact-check/coil-of-rage/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [839, 840, 841], False, True, False, True
+https://www.politifact.com/truth-o-meter/statements/2008/jun/10/chain-email/not-muslims-but-arab-americans/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1697, 1698, 1699], False, True, False, True
+https://kdminer.com/news/2013/jul/12/i-will-stand-with-the-muslims-should-the-politica/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2181, 2182, 2183], False, False, False, True
+https://www.charismanews.com/politics/45583-obama-i-stand-with-muslims, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1406, 1407, 1408], False, False, False, True
+https://www.answerbag.com/q_view/764989, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [28, 29, 30], False, False, False, True
+https://www.truthorfiction.com/obama-books/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [5698, 5699, 5700], False, True, False, True
+https://www.youtube.com/watch?v=Lry_dCgJLzg, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1322, 1323, 1324], False, False, False, True
+https://en.wikipedia.org/wiki/The_Audacity_of_Hope, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2066, 2067, 2068], False, False, False, True
+https://www.youtube.com/watch?v=G2XI-D8OfrI, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [1272, 1273, 1274], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20080501210900AA4l1B0, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [265, 266, 267], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20080802074008AAKIzjS, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [183, 184, 185], False, False, False, True
+https://www.jacksonville.com/article/20110501/news/801252480, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [719, 720, 721], False, True, False, True
+https://pedestrianinfidel.blogspot.com/2007/01/barack-hussien-obama-i-will-stand-with.html, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [3922, 3923, 3924], False, False, False, True
+https://www.richardcyoung.com/politics/liberty-freedom-initiative/barack-obama-i-will-stand-with-the-muslims-should-the-political-winds-shift/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [262, 263, 264], False, False, False, True
+http://www.freerepublic.com/focus/chat/2103500/posts, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [168, 169, 170], False, False, False, True
+https://www.theblaze.com/contributions/even-if-obama-never-said-i-will-stand-with-muslims-its-exactly-what-he-meant, 0.2, ['with', 'the', 'muslims'], 'if the political winds should shift, i will side with the muslims audacity of hope', [21654, 21680, 21684], False, False, False, True
+https://www.truthorfiction.com/mccain-son/, 0.2, ['the', 'political', 'winds'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2228, 2229, 2230], False, True, False, True
+https://www.goodreads.com/work/quotes/1716451-the-audacity-of-hope-thoughts-on-reclaiming-the-american-dream, 0.13333333333333333, ['the', 'political'], 'if the political winds should shift, i will side with the muslims audacity of hope', [10455, 10462], False, False, False, True
+https://personalliberty.com/obama-really-say-will-stand-muslims/, 0.13333333333333333, ['will', 'side'], 'if the political winds should shift, i will side with the muslims audacity of hope', [2762, 2775], False, False, False, True

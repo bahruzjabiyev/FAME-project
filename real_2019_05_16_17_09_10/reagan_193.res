@@ -1,0 +1,36 @@
+--------------------------------------------------
+Identified names are: ronald reagan
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ronald reagan thefuture doesn't belong to the fainthearted; it belongs'to the brave.
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+https://www.answers.com/Q/What_is_the_historical_context_of_President_Ronald_Reagan%27s_1986_speech, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [678, 679, 680, 681, 682, 685, 686], False, False, False, True
+https://history.nasa.gov/reagan12886.html, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [365, 366, 367, 368, 369, 372, 373], False, False, False, True
+https://tamdiepblog.wordpress.com/2018/04/14/shuttle-challenger-tragedy-address-ronald-reagan/, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1714, 1715, 1716, 1717, 1718, 1721, 1722], False, False, False, True
+https://www.ff.org/tag/brave/, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [781, 782, 783, 784, 785, 788, 789], False, False, False, True
+https://patriotpost.us/pages/447-ronald-reagan-challenger-explosion, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [945, 946, 947, 948, 949, 952, 953], True, False, False, True
+https://www.the-american-catholic.com/2016/02/06/ronald-reagan-january-28-1986-the-future-doesnt-belong-to-the-faint-hearted/, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1931, 1932, 1933, 1934, 1935, 1938, 1939], False, False, False, True
+https://www.youtube.com/watch?v=20hY6WMOUM0, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [3987, 3988, 3989, 3990, 3991, 3994, 3995], False, False, False, True
+https://www.orlandosentinel.com/space/orl-space-shuttle-challenger-reagan-speech-story.html, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [5105, 5106, 5107, 5108, 5109, 5112, 5113], False, False, False, True
+https://www.businessinsider.com/challenger-disaster-anniversary-ronald-reagan-2016-1, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [10216, 10217, 10218, 10219, 10220, 10223, 10224], False, False, False, True
+https://www.beliefnet.com/news/electioncenter/gallery/the-10-greatest-us-presidential-speeches-of-all-time.aspx?p=11, 0.7, ['belong', 'to', 'the', 'fainthearted;', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [3124, 3125, 3126, 3127, 3128, 3131, 3132], False, False, False, True
+https://www.azquotes.com/quote/391362, 0.6, ['belong', 'to', 'the', 'it', 'the', 'brave.'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1209, 1210, 1211, 1213, 1216, 1217], False, False, False, True
+https://www.goodreads.com/quotes/185166-the-future-doesn-t-belong-to-the-light-hearted-it-belongs-to, 0.6, ["doesn't", 'belong', 'to', 'the', 'it', 'the'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1879, 1880, 1881, 1882, 1884, 1887], False, False, False, True
+https://www.brainyquote.com/quotes/ronald_reagan_851601, 0.5, ["doesn't", 'belong', 'to', 'the', 'fainthearted;'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1023, 1024, 1025, 1026, 1027], False, False, False, True
+https://www.brainyquote.com/authors/ronald_reagan, 0.5, ["doesn't", 'belong', 'to', 'the', 'fainthearted;'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1770, 1771, 1772, 1773, 1774], False, False, False, True
+https://www.instagram.com/taylor.rogers/p/BjL3JNhAetK/, 0.5, ['belong', 'to', 'the', 'it', 'the'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1312, 1313, 1314, 1316, 1319], False, False, False, True
+https://www.kissingwithconfidence.com/blog/the-future-doesnt-belong-to-the-faint-hearted/, 0.5, ['belong', 'to', 'the', 'fainthearted;', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [727, 728, 729, 730, 731], False, False, False, True
+http://saukgop.org/events/, 0.5, ["doesn't", 'belong', 'to', 'the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [275, 276, 277, 278, 280], False, False, False, True
+http://thinkexist.com/quotation/the_future_doesn-t_belong_to_the_faint-hearted-it/176342.html, 0.4, ['belong', 'to', 'the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1039, 1040, 1041, 1043], False, False, False, True
+https://www.logisticsplus.net/brave-2/, 0.4, ['belong', 'to', 'the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1870, 1871, 1872, 1875], False, False, False, True
+https://sayingimages.com/ronald-reagan-quotes/, 0.4, ['belong', 'to', 'the', 'fainthearted;'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [2097, 2098, 2099, 2100], True, False, False, True
+https://www.inspirationalstories.com/quotes/t/ronald-reagan-on-future/, 0.4, ['belong', 'to', 'the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [361, 362, 363, 365], False, False, False, True
+https://www.youtube.com/watch?v=RxtAwPzabtM, 0.4, ['belong', 'to', 'the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [2734, 2735, 2736, 2739], False, False, False, True
+https://archive.org/details/headphonica.hpcd069, 0.4, ['belong', 'to', 'the', 'fainthearted;'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [2896, 2897, 2898, 2899], False, False, False, True
+https://www.amazon.com/Ronald-Reagan-fainthearted-President-Presidential/dp/B075VCC6XM, 0.4, ['belong', 'to', 'the', 'fainthearted;'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [11807, 11808, 11810, 11811], False, False, False, True
+https://www.facebook.com/t.aaron.metz, 0.4, ["doesn't", 'belong', 'to', 'the'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [1261, 1262, 1268, 1280], False, False, False, True
+https://www.reaganfoundation.org/home/, 0.2, ['the', 'it'], "thefuture doesn't belong to the fainthearted; it belongs'to the brave.", [6133, 6139], False, False, False, True

@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: michele bachmann
+--------------------------------------------------
+--------------------------------------------------
+Query string is: michele bachmann if we weren't meant to own assault rifles then why did jesus create them?
+--------------------------------------------------
+
+
+https://onsizzle.com/i/if-we-werent-meant-to-own-assault-rifles-then-why-20888951, 0.9285714285714286, ['we', "weren't", 'meant', 'to', 'own', 'assault', 'rifles', 'then', 'why', 'did', 'jesus', 'create', 'them?'], "if we weren't meant to own assault rifles then why did jesus create them?", [2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2826, 2827, 2828], True, False, False, True
+http://www.redcafe.net/threads/the-active-shooter-thread.436593/page-31, 0.8571428571428571, ['we', "weren't", 'meant', 'to', 'own', 'assault', 'rifles', 'then', 'why', 'did', 'jesus', 'create'], "if we weren't meant to own assault rifles then why did jesus create them?", [2885, 2886, 2887, 2888, 2889, 2890, 2891, 2892, 2893, 2894, 2895, 2896], False, False, False, True
+https://www.snopes.com/fact-check/did-bachmann-say-jesus-created-rifles/, 0.7857142857142857, ['we', 'meant', 'to', 'own', 'assault', 'rifles', 'then', 'why', 'did', 'jesus', 'create'], "if we weren't meant to own assault rifles then why did jesus create them?", [1089, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100], False, True, False, True
+https://www.resume-now.com/templates/6-lessons-politicians-can-teach-fixing-online-reputation, 0.6428571428571429, ['we', 'meant', 'to', 'own', 'assault', 'then', 'why', 'did', 'jesus'], "if we weren't meant to own assault rifles then why did jesus create them?", [2649, 2651, 2652, 2653, 2654, 2656, 2657, 2658, 2659], False, False, False, True
+https://www.thoughtco.com/dumb-michele-bachmann-quotes-2734647, 0.21428571428571427, ['if', 'we', 'to'], "if we weren't meant to own assault rifles then why did jesus create them?", [2473, 2488, 2492], True, False, False, True
+https://www.cnn.com/TRANSCRIPTS/1112/29/sitroom.02.html, 0.21428571428571427, ['to', 'assault', 'rifles'], "if we weren't meant to own assault rifles then why did jesus create them?", [7774, 7794, 7795], False, False, False, True
+https://crookedcrosses.wordpress.com/tag/dominionists-in-government/, 0.21428571428571427, ['to', 'assault', 'rifles'], "if we weren't meant to own assault rifles then why did jesus create them?", [2629, 2636, 2637], False, False, False, True
+https://stream.org/god-can-heal-america/, 0.21428571428571427, ['to', 'own', 'assault'], "if we weren't meant to own assault rifles then why did jesus create them?", [2718, 2719, 2720], False, False, False, True
+https://www.politifact.com/personalities/michele-bachmann/statements/, 0.14285714285714285, ['to', 'did'], "if we weren't meant to own assault rifles then why did jesus create them?", [1884, 1910], False, True, False, True
+https://www.alternatehistory.com/forum/threads/alternate-wikipedia-infoboxes-iii.384720/page-309, 0.14285714285714285, ['assault', 'rifles'], "if we weren't meant to own assault rifles then why did jesus create them?", [3631, 3632], False, False, False, True
+http://transcripts.cnn.com/TRANSCRIPTS/1112/18/cnr.02.html, 0.14285714285714285, ['then', 'why'], "if we weren't meant to own assault rifles then why did jesus create them?", [7620, 7632], False, False, False, True
+https://www.buzzfeednews.com/article/mjs538/the-ultimate-collection-of-stupid-michele-bachmann, 0.14285714285714285, ['if', 'we'], "if we weren't meant to own assault rifles then why did jesus create them?", [9078, 9093], False, False, False, True
+http://religion.blogs.cnn.com/2011/07/18/amid-bachmann-controversy-many-christians-cool-to-conversion-therapy-for-gays/comment-page-18/, 0.14285714285714285, ['if', 'we'], "if we weren't meant to own assault rifles then why did jesus create them?", [4336, 4357], False, False, False, True
+https://imincorrigible.wordpress.com/2013/10/21/tea-party-fruit-loops-an-occasional-series-no-1-michele-bachmann/, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [4473, 4476], False, True, False, True
+http://www.dailykos.com/story/2013/01/11/1178167/-Michele-Bachmann-is-godly-but-cheap, 0.14285714285714285, ['why', 'did'], "if we weren't meant to own assault rifles then why did jesus create them?", [2956, 2957], False, False, False, True
+https://afeatheradrift.wordpress.com/tag/michele-bachmann/, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [5155, 5169], True, False, False, True
+http://religion.blogs.cnn.com/2011/08/12/bachmann-faces-theological-question-about-submissive-wives-at-debate/comment-page-1/, 0.14285714285714285, ['then', 'why'], "if we weren't meant to own assault rifles then why did jesus create them?", [3956, 3957], False, False, False, True
+http://www.criminalizeconservatism.com/2016/03/a-ton-of-quotes-by-and-about.html, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [2987, 2996], False, False, False, True
+https://en.wikipedia.org/wiki/Michele_Bachmann, 0.14285714285714285, ['then', 'why'], "if we weren't meant to own assault rifles then why did jesus create them?", [14180, 14194], False, True, False, True
+https://news.slashdot.org/story/18/03/08/231225/fake-news-spreads-faster-than-true-news-on-twitter----thanks-to-people-not-bots, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [7612, 7625], False, True, False, True
+https://www.pinterest.com/kscook0361/really-did-they-really-say-that-can-this-be-true/, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [21846, 21852], False, False, False, True
+https://www.reddit.com/r/politics/comments/iaiay/michelle_bachmann_sticks_her_foot_in_her_mouth/, 0.14285714285714285, ['to', 'own'], "if we weren't meant to own assault rifles then why did jesus create them?", [8666, 8672], False, True, False, True
+https://www.snopes.com/fact-check/michele-bachmann-mexican-food/, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, True, False, True
+https://readersupportednews.org/news-section2/311-15/17679-congresss-average-iq-expected-to-rise-in-2015, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, False
+https://nation.foxnews.com/, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, False
+https://www.pinterest.com/pin/540924605214208325/, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, True
+https://www.rollingstone.com/culture/culture-news/one-towns-war-on-gay-teens-232572/#!, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, True
+https://www.reddit.com/r/atheism/comments/bdvy8m/michele_bachmann_trump_is_the_most_godly_biblical/, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, True
+https://stream.org/since-jesus-get-connected-guns/, 0.0, [], "if we weren't meant to own assault rifles then why did jesus create them?", [], False, False, False, True

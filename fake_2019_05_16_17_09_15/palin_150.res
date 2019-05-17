@@ -1,0 +1,38 @@
+--------------------------------------------------
+Identified names are: 
+--------------------------------------------------
+--------------------------------------------------
+Query string is:  north and sotjth korea you need to stop fighting because you're both jawese
+--------------------------------------------------
+
+
+http://www.quickmeme.com/meme/3tvzqv, 0.7692307692307693, ['north', 'and', 'korea', 'you', 'need', 'to', 'stop', 'fighting', 'because', 'both'], "north and sotjth korea you need to stop fighting because you're both jawese ", [491, 492, 494, 495, 496, 497, 498, 499, 500, 502], True, False, False, True
+http://ru.memegenerator.net/instance/36981614/sarah-palin-north-and-south-korea-you-need-to-stop-fighting-because-youre-both-japanese, 0.6153846153846154, ['north', 'and', 'you', 'need', 'to', 'stop', 'fighting', 'because'], "north and sotjth korea you need to stop fighting because you're both jawese ", [1028, 1029, 1032, 1033, 1034, 1035, 1036, 1037], True, False, False, True
+https://memegenerator.net/instance/36981614/sarah-palin-north-and-south-korea-you-need-to-stop-fighting-because-youre-both-japanese, 0.6153846153846154, ['north', 'and', 'you', 'need', 'to', 'stop', 'fighting', 'because'], "north and sotjth korea you need to stop fighting because you're both jawese ", [1028, 1029, 1032, 1033, 1034, 1035, 1036, 1037], True, False, False, True
+https://www.allkpop.com/forum/threads/can-an-indian-become-a-kpop-idol.78054/page-5, 0.3076923076923077, ['you', 'need', 'to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [6429, 6430, 6436, 6439], False, False, False, True
+https://www.washingtonexaminer.com/policy/defense-national-security/top-us-commander-were-not-seeking-a-fight-with-the-iranian-regime-but-irans-the-top-threat, 0.23076923076923078, ['and', 'you', 'need'], "north and sotjth korea you need to stop fighting because you're both jawese ", [6046, 6053, 6063], False, False, False, True
+https://brainly.com/question/2900429, 0.23076923076923078, ['north', 'and', 'korea'], "north and sotjth korea you need to stop fighting because you're both jawese ", [3508, 3509, 3511], False, False, False, True
+https://www.washingtonian.com/2015/07/20/why-banning-the-confederate-flag-wont-stop-confederate-america/, 0.23076923076923078, ['and', 'you', 'need'], "north and sotjth korea you need to stop fighting because you're both jawese ", [287, 299, 300], False, False, False, True
+https://reason.com/blog/2017/07/31/south-korea-considers-acquiring-nuclear, 0.23076923076923078, ['need', 'to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [6500, 6501, 6508], False, False, False, True
+https://www.answers.com/Q/What_did_the_north_and_south_fight_for_control_of, 0.15384615384615385, ['north', 'and'], "north and sotjth korea you need to stop fighting because you're both jawese ", [83, 84], False, False, False, True
+https://www.answers.com/Q/Why_was_fighting_in_Vietnam_so_hard, 0.15384615384615385, ['you', 'need'], "north and sotjth korea you need to stop fighting because you're both jawese ", [100, 101], False, False, False, True
+http://www.angelfire.com/extreme/starzonfire/northandsouth.html, 0.15384615384615385, ['to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [1217, 1218], False, False, False, True
+https://www.cinemaescapist.com/2018/02/10-south-korean-dramas-feature-north-korea/, 0.15384615384615385, ['to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [699, 700], False, False, False, True
+http://www.tripbase.com/c/northkorea/, 0.15384615384615385, ['north', 'and'], "north and sotjth korea you need to stop fighting because you're both jawese ", [1191, 1214], False, False, False, True
+http://transcripts.cnn.com/TRANSCRIPTS/1704/17/wolf.01.html, 0.15384615384615385, ['to', 'because'], "north and sotjth korea you need to stop fighting because you're both jawese ", [3679, 3684], False, False, False, True
+https://www.youtube.com/watch?v=hc6C3ydWdrY, 0.15384615384615385, ['to', 'because'], "north and sotjth korea you need to stop fighting because you're both jawese ", [3326, 3334], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20090526170522AA81iP4, 0.15384615384615385, ['korea', 'you'], "north and sotjth korea you need to stop fighting because you're both jawese ", [4365, 4387], False, False, False, True
+https://www.bttoronto.ca/2018/04/27/north-and-south-korea-agree-to-push-for-talks-to-end-war/, 0.15384615384615385, ['and', 'korea'], "north and sotjth korea you need to stop fighting because you're both jawese ", [1349, 1351], False, False, False, True
+https://nz.answers.yahoo.com/question/index?qid=20101201013818AAHA7NG, 0.15384615384615385, ['north', 'and'], "north and sotjth korea you need to stop fighting because you're both jawese ", [5917, 5924], False, False, False, True
+https://en.wikipedia.org/wiki/United_States_Forces_Korea, 0.15384615384615385, ['to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [5275, 5276], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20130330182115AActE1Q, 0.15384615384615385, ['north', 'and'], "north and sotjth korea you need to stop fighting because you're both jawese ", [3501, 3512], False, False, False, True
+https://www.armscontrol.org/node/2513, 0.15384615384615385, ['to', 'stop'], "north and sotjth korea you need to stop fighting because you're both jawese ", [5302, 5303], False, False, False, True
+http://www.theamericanmirror.com/video-maxine-waters-suffers-brain-freeze-rant-north-korea/, 0.15384615384615385, ['north', 'and'], "north and sotjth korea you need to stop fighting because you're both jawese ", [998, 1000], False, False, False, True
+https://www.newser.com/story/211716/north-south-korea-back-off-war-footing-at-deadline.html, 0.15384615384615385, ['you', 'need'], "north and sotjth korea you need to stop fighting because you're both jawese ", [2225, 2226], False, False, False, True
+https://www.directexpose.com/north-korea-photos-seen-before/, 0.15384615384615385, ['need', 'to'], "north and sotjth korea you need to stop fighting because you're both jawese ", [2627, 2628], False, False, False, True
+https://en.wikipedia.org/wiki/First_Phase_Offensive, 0.15384615384615385, ['to', 'fighting'], "north and sotjth korea you need to stop fighting because you're both jawese ", [15808, 15817], False, False, False, True
+https://consortiumnews.com/2017/07/17/the-logic-in-north-korean-madness/, 0.15384615384615385, ['need', 'to'], "north and sotjth korea you need to stop fighting because you're both jawese ", [10342, 10345], False, False, False, True
+https://www.reddit.com/r/worldnews/comments/85g22v/kim_jongun_has_committed_to_denuclearisation_says/, 0.15384615384615385, ['and', 'korea'], "north and sotjth korea you need to stop fighting because you're both jawese ", [9721, 9723], False, False, False, True
+https://www.cinemaescapist.com/2018/05/best-korean-action-movies/, 0.0, [], "north and sotjth korea you need to stop fighting because you're both jawese ", [], False, False, False, True
+https://pjmedia.com/video/maxine-waters-forgot-how-to-say-north-korea/, 0.0, [], "north and sotjth korea you need to stop fighting because you're both jawese ", [], False, False, False, True
+https://globalnews.ca/news/4172390/korean-war-separated-families-reunite/, 0.0, [], "north and sotjth korea you need to stop fighting because you're both jawese ", [], False, False, False, True

@@ -1,0 +1,20 @@
+--------------------------------------------------
+Identified names are: donald trump
+--------------------------------------------------
+--------------------------------------------------
+Query string is: donald trump 'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum.
+--------------------------------------------------
+
+
+https://www.yourtango.com/2017300142/23-best-funny-donald-trump-memes-putin-wall-toupee-tiny-hands-hunger-games, 0.4444444444444444, ['nobody', 'bigger', 'or', 'better', 'at', 'the', 'donald', 'trump'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [12119, 12120, 12121, 12122, 12123, 12124, 12130, 12148], True, False, False, True
+https://imgflip.com/i/14jpuu, 0.3888888888888889, ['nobody', 'bigger', 'or', 'better', 'at', 'the', 'donald'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [412, 413, 414, 415, 416, 417, 423], True, False, False, True
+https://montrealsimon.blogspot.com/2016/12/donald-trumps-itchy-twitter-fingers-and.html, 0.3888888888888889, ['got', 'four', 'medical', 'deferments', 'to', 'get', 'out'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [2993, 2994, 2995, 2996, 2997, 2998, 2999], False, False, False, True
+https://www.dailymail.co.uk/news/article-3278013/Our-national-security-isn-t-reality-TV-Jeb-takes-swipe-Donald-Trump-questions-ability-look-military-billionaire-blamed-Bush-s-father-9-11.html, 0.2222222222222222, ['nobody', 'bigger', 'or', 'better'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [4293, 4294, 4295, 4296], False, False, False, True
+https://www.pinterest.com/pin/371124825520574546/, 0.16666666666666666, ['the', 'donald', 'trump'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [2937, 2965, 2969], False, False, False, True
+https://www.dailymail.co.uk/news/article-3900028/You-ve-Mystery-woman-Donald-Trump-s-military-academy-photo-finally-identified-secretary-worked-school.html, 0.16666666666666666, ['trump', 'got', 'four'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [5571, 5572, 5573], False, False, False, True
+https://www.factcheck.org/person/donald-trump/, 0.1111111111111111, ['donald', 'trump'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [2779, 2780], False, False, False, True
+https://www.dailywire.com/news/4834/trumps-101-lies-hank-berrien, 0.1111111111111111, ['the', 'donald'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [4835, 4838], False, False, False, True
+http://horsesass.org/does-donald-trump-have-klinefelters-syndrome/, 0.1111111111111111, ['got', 'medical'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [5303, 5305], False, False, False, True
+https://www.pinterest.com/ballyballdez/impeach-trump/, 0.1111111111111111, ['the', 'donald'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [8381, 8391], False, False, False, True
+https://legalinsurrection.com/2015/07/did-donald-trump-just-strangle-himself-with-mccain-war-hero-comment/, 0.1111111111111111, ['the', 'donald'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [9005, 9012], False, False, False, True
+https://everipedia.org/wiki/lang_en/Donald_Trump/, 0.1111111111111111, ['donald', 'trump'], "'there's nobody bigger or better at the militarythaniaw' donald trump got four medical deferments to get out ofvietum. ", [72656, 72690], False, True, False, True

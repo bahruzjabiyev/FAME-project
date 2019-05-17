@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: hillary clinton
+--------------------------------------------------
+--------------------------------------------------
+Query string is: hillary clinton tear is always with us, but we just don't have time for it. not now!
+--------------------------------------------------
+
+
+http://www.nbcnews.com/id/17388372/ns/politics-decision_08/t/reading-hillary-rodhams-hidden-thesis/, 0.7333333333333333, ['is', 'always', 'with', 'but', 'we', 'just', "don't", 'have', 'time', 'for', 'it.'], "tear is always with us, but we just don't have time for it. not now!", [4160, 4161, 4162, 4164, 4165, 4166, 4167, 4168, 4169, 4170, 4171], False, False, False, True
+https://twitter.com/Khanoisseur/status/763866022415773696, 0.7333333333333333, ['is', 'always', 'with', 'but', 'we', 'just', "don't", 'have', 'time', 'for', 'it.'], "tear is always with us, but we just don't have time for it. not now!", [265, 266, 267, 269, 270, 271, 272, 273, 274, 275, 276], False, False, False, True
+https://www.elle.com/culture/career-politics/news/a40653/hillary-clinton-inspiring-quotes/, 0.7333333333333333, ['is', 'always', 'with', 'us,', 'but', 'we', 'just', 'have', 'time', 'for', 'it.'], "tear is always with us, but we just don't have time for it. not now!", [4188, 4189, 4190, 4191, 4192, 4193, 4194, 4196, 4197, 4198, 4199], False, False, False, True
+https://www.cbsnews.com/news/hillary-clinton-on-making-what-appears-to-be-impossible-possible/, 0.6, ['is', 'always', 'with', 'us,', 'but', 'we', 'just', 'have', 'time'], "tear is always with us, but we just don't have time for it. not now!", [4693, 4694, 4695, 4696, 4697, 4698, 4699, 4701, 4708], False, False, False, True
+http://www.sojust.net/speeches/hillaryclinton_commencement.html, 0.4666666666666667, ['but', 'we', 'just', 'have', 'time', 'for', 'it.'], "tear is always with us, but we just don't have time for it. not now!", [1759, 1760, 1761, 1763, 1764, 1765, 1766], False, False, False, True
+http://time.com/4359618/hillary-clinton-wellesley-commencement-transcript/, 0.4666666666666667, ['but', 'we', 'just', 'have', 'time', 'for', 'it.'], "tear is always with us, but we just don't have time for it. not now!", [5439, 5440, 5441, 5443, 5444, 5445, 5446], False, False, False, True
+https://www.goodreads.com/author/quotes/2778471.Hillary_Rodham_Clinton, 0.26666666666666666, ['is', 'always', 'with', 'us,'], "tear is always with us, but we just don't have time for it. not now!", [4205, 4206, 4207, 4208], False, False, False, True
+https://www.politicususa.com/2019/04/15/obama-and-clinton-show-the-world-how-real-presidents-act-in-their-responses-to-notre-dame-fire.html, 0.2, ['but', 'we', 'just'], "tear is always with us, but we just don't have time for it. not now!", [4892, 4893, 4898], False, False, False, True
+https://www.hillaryclinton.com/, 0.13333333333333333, ['is', 'with'], "tear is always with us, but we just don't have time for it. not now!", [233, 235], False, False, False, True
+https://lidblog.com/hillary-clinton-election-stolen/, 0.13333333333333333, ['is', 'always'], "tear is always with us, but we just don't have time for it. not now!", [1948, 1952], False, False, False, True
+https://www.politifact.com/personalities/hillary-clinton/statements/byruling/false/, 0.13333333333333333, ['but', 'we'], "tear is always with us, but we just don't have time for it. not now!", [1876, 1899], False, True, False, True
+https://www.politifact.com/truth-o-meter/statements/2017/dec/05/donald-trump/donald-trump-falsely-claims-hillary-clinton-lied-f/, 0.13333333333333333, ['is', 'with'], "tear is always with us, but we just don't have time for it. not now!", [2261, 2272], False, True, False, True
+http://time.com/5207773/jennifer-palmieri-hillary-clinton-campaign/, 0.13333333333333333, ['time', 'for'], "tear is always with us, but we just don't have time for it. not now!", [8622, 8626], False, False, False, True
+https://twitter.com/HillaryClinton/status/859386649125548032, 0.13333333333333333, ['tear', 'for'], "tear is always with us, but we just don't have time for it. not now!", [278, 284], False, False, True, True
+http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html, 0.13333333333333333, ['but', 'we'], "tear is always with us, but we just don't have time for it. not now!", [10462, 10464], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20071010092421AAB369J, 0.13333333333333333, ['for', 'not'], "tear is always with us, but we just don't have time for it. not now!", [10024, 10031], False, False, False, True
+https://www.theguardian.com/commentisfree/2019/apr/26/joe-biden-is-the-hillary-clinton-of-2020-and-it-wont-end-well-this-time-either, 0.13333333333333333, ['is', 'with'], "tear is always with us, but we just don't have time for it. not now!", [15400, 15417], False, False, False, True
+https://nypost.com/2015/08/25/why-america-is-done-with-hillary-clinton/, 0.13333333333333333, ['with', 'but'], "tear is always with us, but we just don't have time for it. not now!", [8759, 8772], False, False, False, True
+https://www.theatlantic.com/magazine/archive/2015/03/among-the-hillary-haters/384976/, 0.13333333333333333, ['is', 'always'], "tear is always with us, but we just don't have time for it. not now!", [7369, 7371], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20080221192831AAbkS3J, 0.13333333333333333, ['for', 'not'], "tear is always with us, but we just don't have time for it. not now!", [10009, 10016], False, False, False, True
+https://www.newsweek.com/hillary-clintons-emotional-moment-87141, 0.13333333333333333, ['but', 'we'], "tear is always with us, but we just don't have time for it. not now!", [4604, 4611], False, False, False, True
+https://www.rollingstone.com/politics/politics-news/hillary-clintons-take-on-banks-wont-hold-up-185810/, 0.13333333333333333, ['but', 'we'], "tear is always with us, but we just don't have time for it. not now!", [1754, 1755], False, False, False, True
+https://www.washingtonpost.com/opinions/just-stop-hillary-please/2018/03/13/962e0510-26f7-11e8-b79d-f3d931db7f68_story.html, 0.13333333333333333, ['have', 'time'], "tear is always with us, but we just don't have time for it. not now!", [2043, 2049], False, False, False, True
+https://www.youtube.com/watch?v=13i4V4FA0ig, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True
+https://www.youtube.com/watch?v=Ambx8_o7R3o, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True
+https://www.theatlantic.com/politics/archive/2016/09/hillary-clinton-return-greensboro/500243/, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True
+https://nypost.com/2018/10/14/hillary-bill-didnt-abuse-his-power-because-lewinsky-was-an-adult/, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True
+https://www.theguardian.com/books/2017/sep/24/what-happened-by-hillary-rodham-clinton-digested-read, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True
+https://www.nytimes.com/2016/11/04/us/politics/hillary-clinton-lawyer.html, 0.0, [], "tear is always with us, but we just don't have time for it. not now!", [], False, False, False, True

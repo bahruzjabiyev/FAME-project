@@ -1,0 +1,36 @@
+--------------------------------------------------
+Identified names are: ronald
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ronald of the fpur wars in my none cawie about because the us.w' too strong
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+https://www.azquotes.com/quote/241245, 0.7333333333333333, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too', 'strong.', 'ronald'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1246, 1248, 1249, 1250, 1252, 1254, 1255, 1256, 1259, 1260, 1262], False, False, False, True
+https://www.davidstuff.com/usa/reagan.htm, 0.7333333333333333, ['of', 'the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too', 'strong.'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1243, 1248, 1250, 1251, 1252, 1254, 1256, 1257, 1258, 1260, 1261], False, False, False, True
+https://www.fold3.com/page/64018737-ronald-w-reagan, 0.6, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1577, 1579, 1580, 1581, 1583, 1585, 1586, 1587, 1589], False, False, False, True
+https://ammo.com/articles/ronald-reagan-quotes, 0.6, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1449, 1451, 1452, 1453, 1455, 1457, 1458, 1459, 1462], False, False, False, True
+https://www.brainyquote.com/quotes/ronald_reagan_147710, 0.6, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1045, 1047, 1048, 1049, 1051, 1053, 1054, 1055, 1058], False, False, False, True
+https://www.brainyquote.com/authors/ronald_reagan_5, 0.6, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1777, 1779, 1780, 1781, 1783, 1785, 1786, 1787, 1790], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20070316160749AA6GRBm, 0.6, ['the', 'wars', 'in', 'my', 'none', 'about', 'because', 'the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [3714, 3716, 3717, 3718, 3720, 3722, 3723, 3724, 3727], False, False, False, True
+https://townhall.com/columnists/johnhawkins/2012/07/03/the-40-best-quotes-from-ronald-reagan-n1081503, 0.4666666666666667, ['the', 'wars', 'in', 'my', 'none', 'about', 'because'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [3315, 3317, 3318, 3319, 3321, 3323, 3324], False, True, False, True
+https://www.azquotes.com/author/12140-Ronald_Reagan?p=8, 0.4666666666666667, ['the', 'wars', 'in', 'my', 'none', 'about', 'because'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [5646, 5648, 5649, 5650, 5652, 5654, 5655], False, False, False, True
+https://rightwingnews.com/quotes/quotes-from-reagan-on-america-freedom-and-war/, 0.4666666666666667, ['the', 'wars', 'in', 'my', 'none', 'about', 'because'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1746, 1748, 1749, 1750, 1752, 1754, 1755], False, False, False, True
+https://hnn.us/articles/865.html, 0.2, ['the', 'in', 'my'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [6073, 6076, 6077], False, False, False, True
+https://starclass.org/history/1971-worlds-championship-seattle-usa, 0.2, ['of', 'the', 'in'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [4566, 4573, 4578], False, False, False, True
+https://www.criterion.com/current/posts/4778-the-daily-jeanne-moreau-1928-2017, 0.2, ['of', 'the', 'in'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [5479, 5490, 5496], False, False, False, True
+https://en.wikipedia.org/wiki/History_of_conservatism_in_the_United_States, 0.2, ['the', 'in', 'about'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [14282, 14289, 14308], False, False, False, True
+https://groups.google.com/d/msg/ctyinterpola/vIk8F1B_Oh8/4iW9JuBxoogJ, 0.13333333333333333, ['of', 'the'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [2515, 2536], False, False, False, False
+https://original.antiwar.com/Matthew_Hoh/2019/02/17/time-for-peace-in-afghanistan-and-an-end-to-the-lies/, 0.13333333333333333, ['the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [8855, 8860], False, False, False, True
+http://www.nma-fallout.com/threads/why-america-invaded-iraq.153962/page-4, 0.13333333333333333, ['the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [6447, 6450], False, False, False, True
+https://wattsupwiththat.com/2017/07/25/predatory-journals-hit-by-star-wars-sting/, 0.13333333333333333, ['of', 'the'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [1448, 1455], False, False, False, False
+https://www.unz.com/plang/the-president-is-not-cinc-of-the-us/, 0.13333333333333333, ['in', 'my'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [11517, 11518], False, False, False, True
+https://wattsupwiththat.com/2013/03/10/in-which-we-kidnap-reagan-and-he-wins-anyway/, 0.13333333333333333, ['the', 'in'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [9675, 9680], False, False, False, True
+http://www.dailyspeculations.com/wordpress/?cat=142, 0.13333333333333333, ['the', 'in'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [20590, 20599], False, False, False, True
+https://en.wikipedia.org/wiki/Citizen_Cain, 0.13333333333333333, ['the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [16974, 16979], False, False, False, True
+http://www.dailyspeculations.com/wordpress/?m=200809, 0.13333333333333333, ['of', 'the'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [14851, 14852], False, False, False, True
+https://www.opendoorsusa.org/pray-with-the-church-in-sri-lanka-after-devastating-attacks/, 0.13333333333333333, ['of', 'the'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [40548, 40550], False, False, False, True
+https://www.facebook.com/lucas.tsiorbas, 0.13333333333333333, ['the', 'too'], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [14273, 14290], False, False, False, True
+https://en.wikipedia.org/wiki/Cavalry_trilogy, 0.0, [], "of the fpur wars in my none cawie about because the us.w' too strong. ronald ", [], False, False, False, True

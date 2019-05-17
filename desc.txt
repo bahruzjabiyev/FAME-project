@@ -1,0 +1,2 @@
+4 features(trus, legit, meme, social)
+thresh: 0.4

@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: ronald reagan
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ronald reagan i don't always use an umbrella but when 1 do, 1 hold it myself like a man
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 503: Service Temporarily Unavailable
+https://www.newser.com/story/168117/latest-obama-scandal-umbrellas.html, 0.16666666666666666, ['always', 'an', 'umbrella'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3816, 3838, 3839], False, False, False, True
+https://www.americanrhetoric.com/speeches/ronaldreagancalgovcandidacy.htm, 0.16666666666666666, ['an', 'but', 'when'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [682, 706, 707], False, False, False, True
+https://www.cnn.com/ALLPOLITICS/1996/analysis/back.time/9603/29/index.shtml, 0.1111111111111111, ['always', 'use'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3605, 3606], False, False, False, True
+https://www.reaganlibrary.gov/research/speeches/30883b, 0.1111111111111111, ['but', 'do,'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3669, 3672], False, False, False, True
+https://en.wikipedia.org/wiki/Talk:Attempted_assassination_of_Ronald_Reagan/Archive_1, 0.1111111111111111, ['1', '1'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [5645, 5649], False, False, False, True
+http://www.freerepublic.com/focus/f-news/1152208/posts, 0.1111111111111111, ['an', 'but'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [668, 691], False, False, False, True
+https://en.wikipedia.org/wiki/Political_positions_of_Ronald_Reagan, 0.1111111111111111, ['1', '1'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [9209, 9213], False, False, False, True
+https://www.historynet.com/ronald-reagan, 0.1111111111111111, ['an', 'but'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3171, 3192], False, False, False, True
+http://inthesetimes.com/article/3242/the_enduring_lies_of_ronald_reagan, 0.1111111111111111, ['a', 'man.'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [13000, 13001], False, False, False, True
+https://www.imdb.com/name/nm0001654/bio, 0.1111111111111111, ['i', 'always'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [10398, 10412], False, False, False, True
+https://www.wnd.com/2002/12/16204/, 0.1111111111111111, ['i', 'always'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3619, 3622], False, False, False, True
+https://www.duarte.com/presentation-skills-resources/remembering-the-challenger-and-one-of-historys-greatest-speeches/, 0.1111111111111111, ['it', 'like'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [3930, 3941], False, False, False, True
+https://www.newsweek.com/reagan-packed-heat-now-everyones-gun-toting-fantasy-422706, 0.1111111111111111, ['an', 'but'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [4601, 4636], False, False, False, True
+https://www.americamagazine.org/politics-society/2017/10/12/are-you-latino-or-hispanic, 0.1111111111111111, ['i', 'always'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [2030, 2057], False, False, False, True
+https://www.forbes.com/sites/jeffschmitt/2013/07/16/10-keys-to-writing-a-speech/, 0.1111111111111111, ['when', 'do,'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [12312, 12334], False, False, False, True
+https://www.pinterest.com/jt052194/what-a-president-looks-like/, 0.1111111111111111, ['but', 'when'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [24889, 24899], False, False, False, True
+https://www.reddit.com/r/politics/comments/bj6xu5/dear_republicans_stop_using_my_father_ronald/, 0.1111111111111111, ['when', 'hold'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [10373, 10397], False, False, False, True
+https://www.amazon.com/Rendezvous-Destiny-Campaign-Changed-America-ebook/dp/B00JBRUHZG, 0.1111111111111111, ['1', '1'], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [32021, 32023], False, False, False, True
+https://www.salon.com/2012/08/19/ronald_reagan_informant/, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.salon.com/2014/01/11/the_racism_at_the_heart_of_the_reagan_presidency/, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.politico.com/magazine/story/2015/09/reagan-sons-interview-donald-trump-213149, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.youtube.com/watch?v=7w0Jrzvgi14, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, False
+https://www.chabad.org/therebbe/article_cdo/aid/142535/jewish/The-Rebbe-and-President-Reagan.htm, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.goodreads.com/book/show/23164920-reagan, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.pinterest.com/madswissphil/the-gipper/, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True
+https://www.amazon.com/Words-Ronald-Reagan-Optimism-President/dp/078527023X, 0.0, [], 'i don\'t always use an umbrella but when 1 do, 1 hold it myself like a man. iiizps:,\'www.faceboc,k.eom,"api\' ', [], False, False, False, True

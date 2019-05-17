@@ -1,0 +1,71 @@
+--------------------------------------------------
+Identified names are: hillary clinton
+--------------------------------------------------
+--------------------------------------------------
+Query string is: hillary clinton we struggled ..
+--------------------------------------------------
+
+
+--------------------------------------------------
+Query string is: hillary clinton to buy a fivebedroouquse in new york just so i could senate'
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+https://www.redstate.com/joesquire/2017/01/06/video-hillary-clinton-might-run-mayor-new-york/, 0.26666666666666666, ['a', 'in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2244, 2258, 2273, 2274], False, False, False, True
+https://lidblog.com/hillary-clinton-election-stolen/, 0.26666666666666666, ['a', 'in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2830, 2845, 2846, 2847], False, False, False, True
+https://www.foxnews.com/politics/ticket-prices-plunge-for-bill-and-hillary-clintons-speaking-tour, 0.26666666666666666, ['a', 'in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2045, 2048, 2049, 2050], False, False, False, True
+https://www.nytimes.com/2016/11/06/magazine/when-hillary-and-donald-were-friends.html, 0.26666666666666666, ['a', 'in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [11933, 11951, 11958, 11959], False, False, False, True
+https://www.newyorker.com/magazine/2017/09/25/hillary-clinton-looks-back-in-anger, 0.26666666666666666, ['a', 'in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [60677, 60680, 60681, 60682], False, False, False, True
+http://time.com/4404890/hillary-clinton-dallas-shooting-speech/, 0.2, ['a', 'in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4272, 4274, 4276], False, False, False, True
+https://www.cnn.com/ALLPOLITICS/stories/1999/03/11/hillary.blitzer/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1399, 1401, 1402], False, False, False, True
+https://www.snopes.com/fact-check/jfk-senate-frontrunner/, 0.2, ['new', 'york', 'just'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1120, 1121, 1122], False, True, False, True
+https://www.lohud.com/story/news/local/new-york/2019/05/02/hillary-clinton-santa-hairdresser/3541536002/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [7395, 7396, 7397], False, False, False, True
+https://www.twincities.com/2019/04/25/hillary-clinton-how-we-should-respond-to-mueller-report/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [3577, 3585, 3586], False, False, False, True
+https://www.youtube.com/watch?v=bMWZeLqwllY, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1834, 1835, 1836], False, False, False, True
+https://www.broadway.com/shows/hillary-clinton/, 0.2, ['a', 'in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5365, 5389, 5393], False, False, False, True
+https://www.theatlantic.com/politics/archive/2017/08/hillary-clinton-devotionals/535941/, 0.2, ['to', 'a', 'in'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5552, 5575, 5580], False, False, False, True
+http://www.tampabay.com/projects/2016/politics/hillary-clintons-florida-foundation/, 0.2, ['a', 'in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [6782, 6788, 6800], False, False, False, True
+https://www.housebeautiful.com/design-inspiration/g3549/hillary-clinton-chappaqua-house/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [6343, 6353, 6354], False, False, False, True
+https://www.nytimes.com/2016/10/11/us/politics/hillary-clinton-emails.html, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [8727, 8728, 8729], False, False, False, True
+https://www.nytimes.com/2016/05/29/us/politics/hillary-clinton-donald-trump.html, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [7842, 7848, 7849], False, False, False, True
+https://www.theguardian.com/us-news/2017/nov/07/the-night-they-cant-forget-hillary-clinton-supporters-recall-the-election, 0.2, ['a', 'in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [19171, 19192, 19193], False, False, False, True
+https://www.shrinktank.com/psychology-hillary-clinton/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5508, 5510, 5511], False, False, False, True
+https://www.washingtonpost.com/politics/why-new-york-is-pivotal-for-sanders-and-for-clinton/2016/04/09/8c5601e4-fe8d-11e5-9140-e61d062438bb_story.html, 0.2, ['new', 'york', 'just'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4331, 4332, 4340], False, False, False, True
+https://www.washingtonpost.com/sf/national/2016/07/22/from-spouse-to-senator/, 0.2, ['in', 'new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5370, 5371, 5372], False, False, False, True
+https://www.hillaryclinton.com/, 0.13333333333333333, ['to', 'a'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [613, 641], False, False, False, True
+https://www.realclearpolitics.com/video/2014/06/09/hillary_clinton_we_came_out_of_the_white_house_dead_broke.html, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [149, 150], False, False, False, True
+https://www.hillaryclinton.com/issues/, 0.13333333333333333, ['to', 'a'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [929, 941], False, False, False, True
+http://time.com/4295463/hillary-clinton-struggles-to-defend-1994-crime-bill/, 0.13333333333333333, ['we', 'to'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [3523, 3529], False, False, False, True
+https://townhall.com/columnists/johnhawkins/2015/06/16/draft-n2012995, 0.13333333333333333, ['we', '...'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2448, 2461], False, True, False, True
+https://www.whitehouse.gov/about-the-white-house/first-ladies/hillary-rodham-clinton/, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1540, 1541], False, False, False, True
+https://theboard.blogs.nytimes.com/2008/11/17/now-about-hillary-clintons-senate-seat/, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1166, 1167], False, False, False, True
+https://www.politico.com/story/2014/06/hillary-clinton-financial-struggle-diane-sawyer-abc-107591, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1532, 1533], False, False, False, True
+http://gothamist.com/2016/04/07/hillary_subwayghazi.php, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2611, 2612], False, False, False, True
+https://www.snopes.com/news/2016/08/04/hillary-clinton-raise-taxes/, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1686, 1687], False, True, False, True
+https://www.politifact.com/truth-o-meter/statements/2014/jun/10/hillary-clinton/hillary-clinton-says-she-and-bill-were-dead-broke/, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1868, 1869], False, True, False, True
+https://www.youtube.com/watch?v=eyLhDz_ZvA4, 0.13333333333333333, ['to', 'a'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [3640, 3661], False, False, False, True
+https://www.townandcountrymag.com/society/politics/news/a8629/heres-what-hillary-clinton-is-doing-today/, 0.13333333333333333, ['to', 'a'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4543, 4551], False, False, False, True
+https://www.washingtontimes.com/news/2019/mar/4/hillary-clinton-were-living-through-full-fledged-c/, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5924, 5925], False, False, False, True
+https://hotair.com/archives/2014/06/09/hillary-we-struggled-to-make-ends-meet-after-leaving-the-white-house/, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1882, 1883], False, False, False, True
+https://ijr.com/hillary-clinton-full-fledged-crisis-despite-opportunities/, 0.13333333333333333, ['we', 'to'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [264, 271], False, False, False, True
+https://www.nytimes.com/1999/09/03/nyregion/with-some-help-clintons-purchase-a-white-house.html, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2267, 2268], False, False, False, True
+https://www.thetrace.org/2016/08/hillary-clinton-quotes-on-guns/, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2879, 2880], False, False, False, True
+https://www.buzzfeednews.com/article/mattberman/hillary-clinton-says-she-really-struggled-after-trump-won, 0.13333333333333333, ['buy', 'a'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [8532, 8538], False, False, False, True
+https://www.lifezette.com/2019/05/bill-hillary-clinton-speaking-tickets-drop-to-20-person/, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [1578, 1579], False, False, False, True
+https://www.businessinsider.com/hillary-clinton-first-gaffe-2016-2014-6, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [488, 489], False, False, False, True
+https://theintercept.com/2019/03/10/hillary-clinton-bloody-sunday-speech-selma/, 0.13333333333333333, ['in', 'just'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4874, 4879], False, False, False, True
+https://variety.com/2019/legit/reviews/hillary-and-clinton-review-broadway-play-1203192540/, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [5389, 5390], False, False, False, True
+https://www.biography.com/us-first-lady/hillary-clinton, 0.13333333333333333, ['in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [6116, 6126], False, True, False, True
+https://sfbayview.com/2019/02/how-i-lost-by-hillary-clinton-a-book-review/, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [3886, 3887], False, False, False, True
+https://www.stuff.co.nz/world/americas/10140990/Hillary-Clinton-We-struggled-with-money, 0.13333333333333333, ['we', 'struggled'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [2556, 2557], False, False, False, True
+https://www.nyc.com/broadway_tickets/hillary_and_clinton.1608125/, 0.13333333333333333, ['a', 'in'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [16262, 16271], False, False, False, True
+https://nypost.com/2016/09/22/clintons-shell-out-1-16m-to-buy-house-next-door-in-chappaqua/, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4893, 4894], False, False, False, True
+https://www.newsweek.com/why-hillary-held-impossible-standard-even-defeat-606869, 0.13333333333333333, ['new', 'york'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4860, 4861], False, False, False, True
+https://www.nationalreview.com/2016/10/hillary-clinton-corruption-foundation/, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [9117, 9118], False, True, False, True
+https://twitter.com/hillaryclinton, 0.13333333333333333, ['a', 'in'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [3594, 3620], False, False, True, True
+https://en.wikipedia.org/wiki/United_States_Senate_career_of_Hillary_Clinton, 0.13333333333333333, ['in', 'new'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [4115, 4116], False, True, False, True
+https://www.theguardian.com/world/2014/jun/10/hillary-clinton-memoir-broke-after-presidency, 0.13333333333333333, ['struggled', 'to'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [15261, 15262], False, False, False, True
+https://en.wikipedia.org/wiki/Hillary_Rodham_Clinton, 0.13333333333333333, ['to', 'buy'], "we struggled ... to buy a fivebedroouquse in new york just so i could senate' ", [26391, 26392], False, True, False, True

@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: hillary clinton
+--------------------------------------------------
+--------------------------------------------------
+Query string is: hillary clinton my poll numbers are dropping faster than pants around an intern.
+--------------------------------------------------
+
+
+https://imgflip.com/i/yy5f1, 0.8181818181818182, ['my', 'poll', 'numbers', 'are', 'dropping', 'faster', 'than', 'pants', 'an'], 'my poll numbers are dropping faster than pants around an intern. ', [857, 858, 859, 860, 861, 862, 863, 865, 867], True, False, False, True
+https://insider.foxnews.com/2016/05/24/red-eye-inspired-thousands-cheeky-hillary-slogans-twitter-slogans4hillary, 0.7272727272727273, ['poll', 'numbers', 'are', 'dropping', 'faster', 'than', 'pants', 'an'], 'my poll numbers are dropping faster than pants around an intern. ', [2460, 2461, 2462, 2463, 2464, 2465, 2467, 2469], False, False, False, True
+https://www.smithandwessonforums.com/forum/news-links-political-talk-forum/75921-fbi-reopen-email-investigation-5.html, 0.6363636363636364, ['poll', 'numbers', 'are', 'dropping', 'faster', 'than', 'pants'], 'my poll numbers are dropping faster than pants around an intern. ', [2095, 2096, 2097, 2098, 2099, 2100, 2102], False, False, False, True
+https://indiana.forums.rivals.com/threads/flakes-resignation-speech-is-something-to-behold.158812/page-2, 0.6363636363636364, ['poll', 'numbers', 'are', 'dropping', 'faster', 'than', 'pants'], 'my poll numbers are dropping faster than pants around an intern. ', [5899, 5900, 5901, 5902, 5903, 5904, 5907], False, False, False, True
+https://imgflip.com/i/1d8jbs, 0.5454545454545454, ['my', 'poll', 'numbers', 'are', 'dropping', 'faster'], 'my poll numbers are dropping faster than pants around an intern. ', [406, 407, 408, 409, 410, 411], True, False, False, True
+http://www.familyfriendsfirearms.com/forum/archive/index.php/t-67088.html&s=0d67c8f37e57754acc4b6dbbae311e0b&, 0.36363636363636365, ['numbers', 'are', 'dropping', 'faster'], 'my poll numbers are dropping faster than pants around an intern. ', [1254, 1255, 1256, 1257], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20091028133344AA6vHWA&sort=V, 0.36363636363636365, ['poll', 'numbers', 'are', 'dropping'], 'my poll numbers are dropping faster than pants around an intern. ', [9618, 9619, 9620, 9621], False, False, False, False
+https://thefederalistpapers.org/us/these-latest-poll-numbers-are-devastating-to-hillary, 0.2727272727272727, ['dropping', 'faster', 'than'], 'my poll numbers are dropping faster than pants around an intern. ', [4791, 4796, 4797], False, False, False, True
+https://www.youtube.com/watch?v=5J5GQJFc_BQ, 0.2727272727272727, ['faster', 'than', 'pants'], 'my poll numbers are dropping faster than pants around an intern. ', [2832, 2833, 2835], False, False, False, True
+https://www.powerlineblog.com/archives/2015/07/hillarys-poll-numbers-in-free-fall.php, 0.2727272727272727, ['poll', 'numbers', 'are'], 'my poll numbers are dropping faster than pants around an intern. ', [1432, 1433, 1434], False, False, False, True
+https://www.dailydot.com/layer8/why-do-people-hate-hillary-clinton/, 0.2727272727272727, ['numbers', 'are', 'than'], 'my poll numbers are dropping faster than pants around an intern. ', [6193, 6194, 6210], True, True, False, True
+https://downtrend.com/brian-carey/poll-hillary-clintons-approval-rating-is-dropping-faster-than-michael-moore-trying-to-run-a-marathon/, 0.2727272727272727, ['are', 'dropping', 'faster'], 'my poll numbers are dropping faster than pants around an intern. ', [1279, 1284, 1285], False, False, False, True
+https://downtrend.com/brian-carey/hillarys-honesty-numbers-dropping-faster-than-her-husbands-boxers-at-the-bunny-ranch/, 0.2727272727272727, ['dropping', 'faster', 'than'], 'my poll numbers are dropping faster than pants around an intern. ', [2416, 2417, 2418], False, False, False, True
+https://www.redstate.com/jaycaruso/2016/06/17/donald-trumps-poll-numbers-dropping-faster-bill-clintons-pants/, 0.18181818181818182, ['poll', 'numbers'], 'my poll numbers are dropping faster than pants around an intern. ', [153, 154], False, False, False, True
+http://www.slate.com/articles/podcasts/slow_burn/2018/08/bill_clinton_and_monica_lewinsky_s_secret_affair_on_slate_s_slow_burn_podcast.html, 0.18181818181818182, ['poll', 'numbers'], 'my poll numbers are dropping faster than pants around an intern. ', [10780, 10781], False, False, False, True
+https://www.politico.com/magazine/story/2018/01/21/clinton-lewinsky-scandal-20-years-later-me-too-216484, 0.18181818181818182, ['poll', 'numbers'], 'my poll numbers are dropping faster than pants around an intern. ', [7806, 7815], False, False, False, True
+https://www.outsidethebeltway.com/hillary-clintons-ideas-on-how-to-fight-isis-are-as-incoherent-and-flawed-as-everyone-elses/, 0.18181818181818182, ['are', 'than'], 'my poll numbers are dropping faster than pants around an intern. ', [3551, 3555], False, False, False, True
+https://www.reddit.com/r/EnoughTrumpSpam/comments/4oiog9/how_low_can_he_go_folks_poll_numbers_for_trump/, 0.18181818181818182, ['poll', 'numbers'], 'my poll numbers are dropping faster than pants around an intern. ', [10851, 10852], False, False, False, True
+http://www.jokes4us.com/politicaljokes/billclintonjokes.html, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://danieljmitchell.wordpress.com/2014/07/20/hillary-humor-or-hillary-horror/, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://www.steynonline.com/8309/a-guide-to-pants-dropping-for-the-new-man, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://www.politico.com/magazine/story/2017/01/trumps-transition-of-untruths-exaggerations-and-flat-out-falsehoods-214664, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, True, False, True
+https://abcnews.go.com/Politics/week-transcript-kellyanne-conway-robby-mook-gary-johnson/story?id=42330013, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://www.dailymail.co.uk/news/article-3831178/Trump-p-tape-sends-plunging-double-digit-deficit-against-Clinton-poll-taken-debate.html, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://www.nbcwashington.com/news/national-international/, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, False
+https://www.dailymail.co.uk/news/article-4560344/Hillary-Trump-colluded-Russia-create-fake-news.html, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+http://www.returnofkings.com/93070/8-images-that-hillary-does-not-want-you-to-see, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True
+https://www.cbsnews.com/news/second-presidential-debate-live-fact-checking-donald-trump-hillary-clinton-st-louis-washington-university/, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, True, False, True
+https://thehornnews.com/hillarys-secret-election-night-meltdown/, 0.0, [], 'my poll numbers are dropping faster than pants around an intern. ', [], False, False, False, True

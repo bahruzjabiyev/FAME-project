@@ -1,0 +1,71 @@
+--------------------------------------------------
+Identified names are: donald trump
+--------------------------------------------------
+--------------------------------------------------
+Query string is: donald trump i like thinking big
+--------------------------------------------------
+
+
+--------------------------------------------------
+Query string is: donald trump afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump
+--------------------------------------------------
+
+
+EXCEPTION IN (/home/research/fame/common_scripts/main.py, LINE 286 "search_result_html = self.download_url(search_result_url)"): HTTP Error 403: Forbidden
+https://www.azquotes.com/quote/297432, 0.4, ['like', 'thinking', 'big.', 'to', 'well', 'donald'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [953, 954, 955, 959, 966, 970], False, False, False, True
+https://www.quoteoasis.com/quote/thinking-big-going-think, 0.4, ['like', 'thinking', 'big.', 'to', 'well', 'donald'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [106, 107, 108, 112, 119, 125], False, False, False, True
+https://www.brainyquote.com/quotes/donald_trump_137868, 0.4, ['like', 'thinking', 'big.', 'to', 'well', 'donald'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [144, 145, 146, 150, 157, 161], False, False, False, True
+https://quotes.yourdictionary.com/author/donald-trump/17773, 0.4, ['like', 'thinking', 'big.', 'to', 'well', 'donald'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [63, 64, 65, 69, 76, 82], False, False, False, True
+https://books.google.com/books/about/Trump_The_Art_of_the_Deal.html?id=Ye6e_VxM00kC, 0.4, ['like', 'thinking', 'big.', 'to', 'well', 'donald'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [5634, 5635, 5636, 5648, 5655, 5659], False, False, False, True
+http://thinkexist.com/quotation/i_like_thinking_big-if_you-re_going_to_be/204092.html, 0.3333333333333333, ['like', 'thinking', 'big.', 'to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [343, 344, 345, 349, 356], False, False, False, True
+https://motivationgrid.com/12-donald-trump-quotes-to-make-you-think-big-life/, 0.3333333333333333, ['like', 'thinking', 'big.', 'to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [2146, 2147, 2148, 2152, 2159], False, False, False, True
+https://twitter.com/realDonaldTrump/status/276692448661606401, 0.3333333333333333, ['like', 'thinking', 'big.', 'to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [277, 278, 279, 288, 295], False, False, True, True
+https://www.brainyquote.com/authors/donald_trump, 0.3333333333333333, ['like', 'thinking', 'big.', 'to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [2245, 2246, 2247, 2251, 2258], False, False, False, True
+https://www.conservativebookclub.com/book/trump-the-art-of-the-deal, 0.3333333333333333, ['like', 'thinking', 'big.', 'to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [2225, 2226, 2227, 2239, 2246], False, False, False, True
+https://www.quotes-inspirational.com/quote/like-thinking-big-you-going-106/, 0.26666666666666666, ['i', 'like', 'thinking', 'big.'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [644, 645, 646, 647], False, False, False, True
+https://www.harpercollins.com/9780061753893/think-big/, 0.2, ['to', 'donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [8962, 8971, 8972], False, False, False, True
+https://me.me/i/i-like-thinking-big-if-youre-going-to-be-thinking-14050772, 0.2, ['like', 'thinking', 'to'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [12802, 12803, 12808], True, False, False, True
+https://www.hollywoodreporter.com/features/howard-stern-reveals-cancer-scare-trump-regrets-details-a-dishy-new-book-1208773, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [3363, 3365], False, False, False, True
+https://www.youtube.com/watch?v=E2tM3Te_NXc, 0.13333333333333333, ['like', 'thinking'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [3527, 3539], False, False, False, True
+https://www.scribd.com/book/163642512/Think-Big-Make-It-Happen-in-Business-and-Life, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [4662, 4663], False, False, False, True
+https://www.eater.com/2017/2/28/14753248/trump-steak-well-done-ketchup-personality, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [6039, 6040], False, False, False, True
+https://answers.yahoo.com/question/index?qid=20151018105437AAW9Cza, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [9514, 9515], False, False, False, True
+https://www.youtube.com/watch?v=IPxCCTCEL14, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [4067, 4068], False, False, False, True
+https://www.juridipedia.com/US/Houston/138652549610979/FValdezLaw-PC, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [4899, 4900], False, False, False, True
+https://www.cnbc.com/id/100000765, 0.13333333333333333, ['to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [7743, 7750], False, False, False, True
+https://www.goodreads.com/author/quotes/676.Donald_J_Trump, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [13200, 13202], False, False, False, True
+http://news.blogs.cnn.com/2011/05/02/obama-to-make-statment-tonight-subject-unknown/comment-page-3/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [6316, 6339], False, False, False, True
+http://news.blogs.cnn.com/2011/05/02/obama-to-make-statment-tonight-subject-unknown/comment-page-4/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [6316, 6339], False, False, False, True
+https://www.cbsnews.com/news/60-minutes-donald-trump-family-melania-ivanka-lesley-stahl/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [12831, 12840], False, False, False, True
+http://www.freerepublic.com/tag/*/index?more=3689878, 0.13333333333333333, ['to', 'ntas'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [2833, 2855], False, False, False, True
+https://blackchristiannews.com/2016/11/watch-full-interview-with-president-elect-donald-trump-and-family-on-60-minutes/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [5599, 5608], False, False, False, True
+https://cherishedvehiclestorage.co.uk/author/matt/page/5/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [3948, 3967], False, False, False, True
+https://archive.org/details/WRAL_20160316_043800_Late_Night_With_Seth_Meyers, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [10496, 10518], False, False, False, True
+https://www.reddit.com/r/The_Donald/comments/b5kiwu/donald_trump_jr_on_tucker_carlson_tonight_325/, 0.13333333333333333, ['to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [9267, 9281], False, False, False, True
+https://boldanddetermined.com/donald-trump/, 0.13333333333333333, ['to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [12574, 12599], False, False, False, True
+https://archive.org/details/KKTV_20160307_140000_CBS_This_Morning, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [10576, 10577], False, False, False, True
+https://www.reddit.com/r/politics/comments/6vk6da/the_only_thing_donald_trump_is_really_worried/, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [19037, 19038], False, False, False, True
+https://www.cnn.com/2019/03/08/politics/donald-trump-big-problem-voters-caring/index.html, 0.13333333333333333, ['to', 'well'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [23909, 23938], False, False, False, True
+https://en.wikipedia.org/wiki/Gerald_R._Ford, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [32650, 32651], False, False, False, True
+https://www.goodreads.com/book/show/1870244.Think_BIG_and_Kick_Ass_in_Business_and_Life, 0.13333333333333333, ['thinking', 'big.'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [9973, 9974], False, False, False, True
+https://www.dailymail.co.uk/home/sitemaparchive/day_20160120.html, 0.13333333333333333, ['to', 'mi'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [14527, 14557], False, True, False, True
+https://bigthink.com/videos/why-i-like-donald-trump, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [13188, 13189], False, False, False, True
+http://abcnews.co.ke/donald-trump-jr-emerges-as-the-g-o-p-relief-pitcher-of-2018/, 0.13333333333333333, ['i', 'like'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [4353, 4361], False, False, False, True
+https://www.dailymail.co.uk/home/sitemaparchive/day_20170127.html, 0.13333333333333333, ['to', 'ntas'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [20096, 20121], False, True, False, True
+https://www.facebook.com/WeLovePresidentDonaldJTrump/, 0.13333333333333333, ['donald', 'trump'], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [5457, 5459], False, False, False, True
+https://www.amazon.com/Think-Big-Make-Happen-Business/dp/0061547840, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, False
+https://www.amazon.com/Think-Big-Make-Happen-Business-ebook/dp/B000W967KQ, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, False
+https://issuu.com/asianjournaldigitaledition/docs/072818_-_la_weekend_edition, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, False
+https://www.mic.com/articles/141242/from-donald-trump-to-bernie-sanders-male-politicians-are-wearing-lots-and-lots-of-makeup, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.nbcnews.com/politics/2020-election/bill-de-blasio-launches-presidential-bid-donald-trump-must-be-n1006311, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.mlive.com/news/ann-arbor/page/deportations_despair_and_big_c.html, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://csbnnews.com/donald-trump-jr-emerges-as-the-g-o-p-relief-pitcher-of-2018/, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.mirror.co.uk/tv/, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, False
+https://www.researchgate.net/publication/316685226_They_Shoot_Horses_DOn\'t_they, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.narutoforums.org/, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], True, False, False, True
+https://www.nytimes.com/2018/11/05/us/politics/donald-trump-jr-republicans-elections.html, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.newsweek.com/trump-china-respects-very-large-brain-1140052, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.nakedcapitalism.com/2019/02/links-2-2-19.html, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.globalresearch.ca/page/284?p=0.167, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+https://www.pinterest.com/mary_anita25/, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True
+http://www.zonaeuropa.com/OccupyCentral_4.htm, 0.0, [], "i like thinking big. afuou'reaqing to oe thikng anuthing, uou mi ntas well donald trump ", [], False, False, False, True

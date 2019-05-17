@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: ocasio
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ocasio bubbles are made trom sqap. we need to use that technology to end global warming
+--------------------------------------------------
+
+
+https://ocasiomemes.com/mememe/bubbles-are-made-from-soap-we-need-to-use-that-technology-to-end-global-warming/, 0.8, ['are', 'made', 'we', 'need', 'to', 'use', 'that', 'technology', 'to', 'end', 'global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [1469, 1470, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482], True, False, False, True
+https://ocasiomemes.com/deep-thought-memes/, 0.7333333333333333, ['are', 'made', 'we', 'need', 'to', 'use', 'that', 'technology', 'to', 'end', 'global'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [2450, 2451, 2454, 2455, 2456, 2457, 2458, 2459, 2460, 2461, 2462], True, False, False, True
+https://www.factcheck.org/search/, 0.13333333333333333, ['to', 'that'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [1055, 1059], False, False, False, False
+https://www.epa.gov/lmop/basic-information-about-landfill-gas, 0.13333333333333333, ['to', 'end'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [3128, 3155], False, False, False, False
+https://opensociet.org/2018/12/01/a-climate-change-fueled-switch-away-from-fossil-fuels-means-the-worldwide-economy-will-fundamentally-need-to-change/, 0.13333333333333333, ['we', 'need'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [2057, 2058], False, False, False, True
+https://www.climatedepot.com/2013/05/14/co2-nears-400-ppm-relax-its-not-global-warming-end-times-but-only-a-big-yawn-climate-depot-special-report/, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [6518, 6519], False, False, False, True
+https://www.parenting.com/gallery/science-fair-projects-for-kids, 0.13333333333333333, ['to', 'use'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [4550, 4551], False, False, False, False
+https://www.alternet.org/2007/02/the_most_important_thing_you_can_do_to_stop_global_warming/, 0.13333333333333333, ['we', 'need'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [6919, 6920], False, False, False, False
+https://www.sott.net/article/408527-When-bubbles-burst-Tesla-cars-the-new-cycle-of-Marxism-and-the-end-of-global-warming, 0.13333333333333333, ['are', 'we'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [1914, 1922], False, False, False, True
+http://thepeoplescube.com/peoples-blog/the-wisdom-of-ocasio-cortez-the-sage-of-the-left-t20359.html, 0.13333333333333333, ['to', 'end'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [9430, 9435], False, False, False, True
+https://www.theburningplatform.com/2019/02/11/how-to-destroy-civilization-by-alexandria-ocasio-cortez/, 0.13333333333333333, ['we', 'need'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [4758, 4760], False, False, False, True
+https://www.reddit.com/r/europe/comments/7egxdg/infographic_greenhouse_gas_emissions_tonnes_per/, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [13197, 13198], False, False, False, False
+https://www.researchgate.net/publication/317311939_When_Orders_of_Worth_Clash_Negotiating_Legitimacy_in_Situations_of_Moral_Multiplexity_Contributions_from_French_Pragmatist_Sociology, 0.13333333333333333, ['to', 'use'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [76868, 76889], False, False, False, True
+https://www.reddit.com/r/europe/comments/7cm495/euro_economy_is_heading_towards_a_golden_period/, 0.13333333333333333, ['to', 'end'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [31973, 31979], False, False, False, False
+https://eddiesbloglist.rocks/author/kauilapele/page/2/, 0.13333333333333333, ['to', 'use'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [5187, 5193], True, False, False, True
+https://thestandard.org.nz/open-mike-02-03-2019/, 0.13333333333333333, ['to', 'use'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [35019, 35020], False, False, False, True
+http://joannenova.com.au/2019/01/1500-private-jets-fly-in-to-save-world-at-davos/, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [19020, 19021], False, False, False, True
+https://eddiesbloglist.rocks/category/love/page/2/, 0.13333333333333333, ['to', 'use'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [20289, 20295], True, False, False, True
+https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Featured_log/April_2010, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [99382, 99383], False, False, False, False
+https://www.nap.edu/read/1543/chapter/5, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [107062, 107063], False, False, False, False
+https://forums.spacebattles.com/threads/a-paradigm-shift-an-undertale-au-si-multicrossover.654724/, 0.13333333333333333, ['are', 'made'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [38439, 38440], False, False, False, False
+https://archive.org/stream/profile198990/PROFILE1989-90_djvu.txt, 0.13333333333333333, ['made', 'trom'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [6123, 6145], False, False, False, True
+https://epdf.tips/academic-vocabulary-in-use-with-answers5e589d5f15d3e47a27851386ffdf92c611470.html, 0.13333333333333333, ['to', 'end'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [222738, 222763], False, False, False, False
+http://www.alicefish.net/Links.htm, 0.13333333333333333, ['global', 'warming'], 'bubbles are made trom sqap. we need to use that technology to end global warming', [413663, 413664], False, False, False, True
+http://dolohen.com/afu.php?zoneid=2373319, 0.0, [], 'bubbles are made trom sqap. we need to use that technology to end global warming', [], False, False, False, False
+http://go.oclasrv.com/afu.php?zoneid=1771846, 0.0, [], 'bubbles are made trom sqap. we need to use that technology to end global warming', [], False, False, False, False
+http://ufdc.ufl.edu/UF00028315/01009, 0.0, [], 'bubbles are made trom sqap. we need to use that technology to end global warming', [], False, False, False, False
+https://www.pinterest.com/pin/244601823483112261/, 0.0, [], 'bubbles are made trom sqap. we need to use that technology to end global warming', [], False, False, False, False
+https://bobagard.blogspot.com/2017/05/james-comey-has-been-investigating.html, 0.0, [], 'bubbles are made trom sqap. we need to use that technology to end global warming', [], False, True, False, True

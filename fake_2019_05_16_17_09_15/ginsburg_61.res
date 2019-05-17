@@ -1,0 +1,23 @@
+--------------------------------------------------
+Identified names are: ruth bader ginsburg
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ruth bader ginsburg to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society
+--------------------------------------------------
+
+
+https://www.pinterest.com/pin/239394536416096534/, 0.13636363636363635, ['the', 'in', 'the'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [2292, 2295, 2315], False, False, False, False
+https://melnickmelnick.com/author/stephaniemelnick/, 0.13636363636363635, ['in', 'the', 'place'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [13588, 13589, 13620], False, False, False, True
+https://issuu.com/tulsapeople/docs/tp_0716d, 0.09090909090909091, ['to', 'in'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [123, 139], False, False, False, False
+https://www.azquotes.com/top_quotes.html, 0.09090909090909091, ['your', 'and'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [7392, 7396], False, False, False, True
+https://www.nationalreview.com/corner/, 0.09090909090909091, ['the', 'place'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [15505, 15507], False, True, False, False
+https://www.pinterest.com/gearupforchange/change/, 0.09090909090909091, ['to', 'all'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [18347, 18362], False, False, False, True
+https://play.google.com/store/books/collection/books_clusters_mrl_rt_A56EC206_C9EDEC5B_969B53BB?hl=en_US, 0.09090909090909091, ['to', 'your'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [21267, 21269], False, False, False, True
+https://www.dailymail.co.uk/home/sitemaparchive/day_20180516.html, 0.09090909090909091, ['the', 'ladies'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [27597, 27607], False, True, False, True
+https://benjaminfulford.net/2019/01/14/supreme-court-justice-world-bank-president-another-rothschild-fall-as-revolution-continues/, 0.09090909090909091, ['your', 'and'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [77317, 77319], False, False, False, True
+https://benjaminfulford.net/2019/02/04/year-of-the-pig-to-start-with-a-big-bounty-for-the-people-of-the-world/, 0.09090909090909091, ['to', 'protect'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [62456, 62457], False, False, False, True
+https://www.archive.org/stream/indianalawreview32499unse/indianalawreview32499unse_djvu.txt, 0.09090909090909091, ['to', 'fight'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [119501, 119502], False, False, False, True
+https://www.aparchive.com/search?query=USA%20PRESIDENTIAL%20ELECTION&allFilters=Voting%20rights:Subject,PRESCRIPTION%20DRUGS:Keyword, 0.09090909090909091, ['to', 'protect'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [162027, 162028], False, False, False, True
+https://archive.org/stream/vogue184jannewy/vogue184jannewy_djvu.txt, 0.09090909090909091, ['to', 'fight'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [146128, 146129], False, False, False, True
+http://jaguar.sakura.ne.jp/bacchus/member2/memberlist.cgi?mode=res&resno=0017, 0.09090909090909091, ['to', 'protect'], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [138428, 138429], False, False, False, True
+https://issuu.com/mndaily/docs/091714, 0.0, [], 'to all the ladies in the place with styleand grace: allow me to fight to protect your equalrigh,ts and inclusion in society ', [], False, False, False, False

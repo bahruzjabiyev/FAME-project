@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: barack obama
+--------------------------------------------------
+--------------------------------------------------
+Query string is: barack obama hope in the unlikely story that is am evica, there kas never been anything false about hare.
+--------------------------------------------------
+
+
+https://www.academia.edu/7790009/A_Journey_Through_My_College_Papers_Undergraduate_Series, 0.17647058823529413, ['in', 'the', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [409, 410, 422], False, False, False, False
+https://www.podcastrepublic.net/podcast/1071171446, 0.17647058823529413, ['in', 'the', 'story'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [74844, 74852, 74855], False, False, False, True
+http://goshenpl.lib.in.us/page/3/?s=books, 0.17647058823529413, ['in', 'the', 'story'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [45414, 45417, 45432], False, False, False, True
+https://www.newsfollowup.com/rothschild_libor_lite.htm, 0.17647058823529413, ['in', 'the', 'story'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [21847, 21858, 21861], False, False, False, True
+http://papasearch.net/NelsonMandela2.html, 0.17647058823529413, ['in', 'the', 'unlikely'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [101469, 101490, 101491], False, False, False, True
+https://groups.google.com/d/topic/sci.geo.meteorology/63xyoNZNYSQ, 0.11764705882352941, ['the', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [2527, 2533], False, False, False, False
+https://www.academia.edu/23974022/VIC_TO_RIA_FROM_KIN, 0.11764705882352941, ['the', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [3422, 3430], False, False, False, False
+http://www.msnbc.com/transcripts/all-in/2015-03-20, 0.11764705882352941, ['that', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [8709, 8710], False, False, False, True
+https://www.scribd.com/book/161866012/A-Certain-Arrogance-The-Sacrificing-of-Lee-Harvey-Oswald-and-the-Wartime-Manipulation-of-Religious-Groups-by-U-S-Intelligence, 0.11764705882352941, ['the', 'that'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [6049, 6060], False, False, False, False
+https://www.theatlantic.com/notes/2015/12/how-politicians-deal-with-tv-news-from-obama-to-cheney/422070/, 0.11764705882352941, ['been', 'about'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [14729, 14733], False, False, False, True
+http://forum.assassinationofjfk.net/index.php/topic/1125-an-ultimatum-to-the-kennedy-family-facilitators/page-2, 0.11764705882352941, ['that', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [3031, 3032], False, False, False, True
+https://www.theatlantic.com/notes/2016/09/trump-time-capsule-107-sidney-blumenthal-is-not-a-birther/500510/, 0.11764705882352941, ['the', 'unlikely'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [9510, 9521], False, False, False, True
+https://nypost.com/2009/01/18/, 0.11764705882352941, ['the', 'unlikely'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [5031, 5057], False, False, False, True
+https://www.pinterest.com/mmehetzel/presidential-campaign/, 0.11764705882352941, ['the', 'unlikely'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [12308, 12309], False, False, False, True
+https://thebestmoviesihaveseen.blogspot.com/2014/09/, 0.11764705882352941, ['the', 'story'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [27213, 27215], False, False, False, True
+https://beverlykelley.typepad.com/my_weblog/, 0.11764705882352941, ['the', 'unlikely'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [21705, 21712], False, False, False, True
+https://statoperator.com/research/trump-daily-news-2019-01-05/, 0.11764705882352941, ['never', 'anything'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [39752, 39754], True, True, False, True
+https://www.abc.net.au/news/2011-10-12/crabb-gillard-hard-victory-carbon-tax/3553772, 0.11764705882352941, ['the', 'story'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [6952, 6954], False, True, False, True
+https://mafiadoc.com/out-of-the-crisis-eu-economic-and-social-policies-_5c12b204097c473a1f8b4679.html, 0.11764705882352941, ['there', 'never'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [104909, 104920], False, False, False, True
+https://editorialsamarth.blogspot.com/2010/10/editorial-131010.html, 0.11764705882352941, ['that', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [130161, 130182], False, False, False, True
+https://www.newsfollowup.com/rothschild_libor_fraud_scandal_pilgrim_society_agius_chicago_obama.htm?bcsi_scan_74DB25B1532249DA=lapJQAu8eLoP3MRp4ETWi6n9SeAkAAAACzvhow==&bcsi_scan_filename=rothschild_libor_fraud_scandal_pilgrim_society_agius_chicago_obama.htm, 0.11764705882352941, ['that', 'is'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [53680, 53683], False, False, False, True
+https://archive.org/stream/TalesPart19/Tales_Part_19_djvu.txt, 0.11764705882352941, ['been', 'anything'], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [247857, 247861], False, True, False, True
+http://go.oclasrv.com/afu.php?zoneid=1868514, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, False
+https://issuu.com/scottcountyrecord/docs/screcord06022016, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, False
+https://www.rawstory.com/, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, True
+https://issuu.com/sfnewmexican/docs/the_santa_fe_new_mexican__oct._24__, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, False
+http://religion.blogs.cnn.com/2013/01/21/my-take-obama-delivers-lincolns-third-inaugural/comment-page-6/, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, True
+http://goshenpl.lib.in.us/page/8/?s=books, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, True
+https://www.loot.co.za/index/html/index708.html, 0.0, [], 'hope in the unlikely story that is am evica, there kas never been anything false about hare. ', [], False, False, False, True

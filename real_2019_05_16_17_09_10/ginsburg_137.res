@@ -1,0 +1,37 @@
+--------------------------------------------------
+Identified names are: ruth bader ginsburg lifehack quotes
+--------------------------------------------------
+--------------------------------------------------
+Query string is: ruth bader ginsburg lifehack quotes we had to go on and do the work of the court and we did.
+--------------------------------------------------
+
+
+http://www.lifesayingsquotes.com/quote/had-go-on-work-court-78/, 1.0, ['we', 'had', 'to', 'go', 'on', 'and', 'do', 'the', 'work', 'of', 'the', 'court', 'and', 'we', 'did.'], 'we had to go on and do the work of the court and we did.', [3152, 3153, 3154, 3155, 3156, 3157, 3158, 3159, 3160, 3161, 3162, 3163, 3164, 3165, 3166], False, False, False, True
+https://www.quotes-friendship.com/quote/had-go-on-work-court-78/, 1.0, ['we', 'had', 'to', 'go', 'on', 'and', 'do', 'the', 'work', 'of', 'the', 'court', 'and', 'we', 'did.'], 'we had to go on and do the work of the court and we did.', [2911, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, 2922, 2923, 2924, 2925], False, False, False, True
+https://www.quotes-inspirational.com/quote/had-go-on-work-court-78/, 1.0, ['we', 'had', 'to', 'go', 'on', 'and', 'do', 'the', 'work', 'of', 'the', 'court', 'and', 'we', 'did.'], 'we had to go on and do the work of the court and we did.', [3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129, 3130], False, False, False, True
+https://www.wisefamousquotes.com/ruth-bader-ginsburg-quotes/, 1.0, ['we', 'had', 'to', 'go', 'on', 'and', 'do', 'the', 'work', 'of', 'the', 'court', 'and', 'we', 'did.'], 'we had to go on and do the work of the court and we did.', [3548, 3549, 3550, 3551, 3552, 3553, 3554, 3555, 3556, 3557, 3558, 3559, 3560, 3561, 3562], False, False, False, True
+https://www.brainyquote.com/quotes/ruth_bader_ginsburg_218230, 0.7333333333333333, ['had', 'to', 'go', 'on', 'and', 'do', 'the', 'work', 'of', 'the', 'court'], 'we had to go on and do the work of the court and we did.', [1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060], False, False, False, True
+https://www.quotes-inspirational.com/quotes/ginsburg/, 0.5333333333333333, ['had', 'to', 'go', 'on', 'and', 'do', 'the', 'work'], 'we had to go on and do the work of the court and we did.', [988, 989, 990, 991, 992, 993, 994, 995], False, False, False, True
+https://www.history.com/topics/womens-history/ruth-bader-ginsburg, 0.3333333333333333, ['to', 'on', 'and', 'the', 'work'], 'we had to go on and do the work of the court and we did.', [3768, 3770, 3774, 3786, 3797], False, True, False, True
+https://www.teenvogue.com/story/ruth-bader-ginsburg-supreme-court-rulings-to-know-about, 0.26666666666666666, ['the', 'of', 'the', 'court'], 'we had to go on and do the work of the court and we did.', [5340, 5346, 5353, 5355], False, False, False, True
+https://www.snopes.com/fact-check/did-ruth-bader-ginsburg-say-that-pedophilia-was-good-for-children/, 0.2, ['the', 'of', 'the'], 'we had to go on and do the work of the court and we did.', [3372, 3374, 3383], False, True, False, True
+https://www.cnbc.com/2019/01/07/supreme-court-justice-ruth-bader-ginsburg-working-from-home-for-first-arguments-since-cancer-surgery.html, 0.2, ['of', 'the', 'court'], 'we had to go on and do the work of the court and we did.', [7495, 7499, 7500], False, False, False, True
+https://www.bustle.com/articles/185476-16-fun-ruth-bader-ginsburg-facts-i-learned-in-1-hour, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [2023, 2027], False, False, False, True
+http://www.msnbc.com/msnbc/9-powerful-ruth-bader-ginsburg-quotes, 0.13333333333333333, ['and', 'we'], 'we had to go on and do the work of the court and we did.', [2665, 2666], False, False, False, True
+https://jwa.org/encyclopedia/article/ginsburg-ruth-bader, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [2172, 2173], False, False, False, True
+https://www.biography.com/law-figure/ruth-bader-ginsburg, 0.13333333333333333, ['of', 'the'], 'we had to go on and do the work of the court and we did.', [6662, 6663], False, True, False, True
+http://mentalfloss.com/article/62023/15-awesome-ruth-bader-ginsburg-quotes-her-84th-birthday, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [1863, 1864], False, False, False, True
+http://mentalfloss.com/article/76804/15-things-you-should-know-about-ruth-bader-ginsburg, 0.13333333333333333, ['of', 'the'], 'we had to go on and do the work of the court and we did.', [7069, 7070], False, False, False, True
+https://www.britannica.com/biography/Ruth-Bader-Ginsburg, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [1774, 1775], False, False, False, True
+https://www.brainyquote.com/authors/ruth_bader_ginsburg, 0.13333333333333333, ['and', 'do'], 'we had to go on and do the work of the court and we did.', [3704, 3705], False, False, False, True
+https://www.theatlantic.com/politics/archive/2018/02/ruth-bader-ginsburg-opens-up-about-metoo-voting-rights-and-millenials/553409/, 0.13333333333333333, ['the', 'court'], 'we had to go on and do the work of the court and we did.', [11279, 11281], False, False, False, True
+http://www.msnbc.com/msnbc/ruth-bader-ginsburg-marriage-sexism-and-pushups, 0.13333333333333333, ['and', 'do'], 'we had to go on and do the work of the court and we did.', [2084, 2085], False, False, False, True
+https://www.businessinsider.com/ruth-bader-ginsburg-workout-trainer-says-she-left-dinner-with-obama-2018-9, 0.13333333333333333, ['of', 'the'], 'we had to go on and do the work of the court and we did.', [10398, 10405], False, False, False, True
+https://heavy.com/news/2017/11/ruth-bader-ginsburg-health-age-net-worth/, 0.13333333333333333, ['the', 'of'], 'we had to go on and do the work of the court and we did.', [5248, 5253], False, False, False, True
+https://www.cnbc.com/2018/12/21/supreme-court-justice-ruth-bader-ginsburg-85-reportedly-undergoes-lung-procedure-.html, 0.13333333333333333, ['of', 'the'], 'we had to go on and do the work of the court and we did.', [8034, 8035], False, False, False, True
+https://www.nytimes.com/2009/07/12/magazine/12ginsburg-t.html, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [5045, 5046], False, False, False, True
+https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [5610, 5611], False, False, False, True
+https://www.imdb.com/title/tt7689964/, 0.13333333333333333, ['the', 'and'], 'we had to go on and do the work of the court and we did.', [14073, 14102], False, False, False, True
+https://www.goodreads.com/book/show/25422234-notorious-rbg, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [13566, 13567], False, False, False, True
+https://www.nationalreview.com/2019/02/ruth-bader-ginsburg-notorious-rbg-cult-following/, 0.13333333333333333, ['the', 'court'], 'we had to go on and do the work of the court and we did.', [11907, 11909], False, True, False, True
+https://www.goodreads.com/book/show/38395059-ruth-bader-ginsburg, 0.13333333333333333, ['to', 'go'], 'we had to go on and do the work of the court and we did.', [14540, 14541], False, False, False, True
