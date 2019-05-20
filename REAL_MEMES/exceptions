@@ -1,0 +1,35 @@
+/tmp/real_text/ginsburg_350.txt
+exception occured!
+'ParsedResults'
+{'OCRExitCode': 3, 'IsErroredOnProcessing': True, 'ErrorMessage': ['File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB'], 'ErrorDetails': '', 'ProcessingTimeInMilliseconds': '128'}
+None
+/tmp/real_text/hillary_192.txt
+exception occured!
+'ParsedResults'
+{'OCRExitCode': 3, 'IsErroredOnProcessing': True, 'ErrorMessage': ['File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB'], 'ErrorDetails': '', 'ProcessingTimeInMilliseconds': '150'}
+None
+/tmp/real_text/melania_383.txt
+exception occured!
+'ParsedResults'
+{'OCRExitCode': 3, 'IsErroredOnProcessing': True, 'ErrorMessage': ['File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB'], 'ErrorDetails': '', 'ProcessingTimeInMilliseconds': '150'}
+None
+/tmp/real_text/warren_15.txt
+exception occured!
+'ParsedResults'
+{'OCRExitCode': 3, 'IsErroredOnProcessing': True, 'ErrorMessage': ['File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB'], 'ErrorDetails': '', 'ProcessingTimeInMilliseconds': '180'}
+None
+/tmp/real_text/warren_22.txt
+exception occured!
+'ParsedResults'
+{'OCRExitCode': 3, 'IsErroredOnProcessing': True, 'ErrorMessage': ['File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB'], 'ErrorDetails': '', 'ProcessingTimeInMilliseconds': '164'}
+None
+/tmp/real_text/warren_58.txt
+exception occured!
+string indices must be integers
+You may only perform this action upto maximum 500 number of times within 86400 seconds
+None
+/tmp/real_text/warren_73.txt
+exception occured!
+string indices must be integers
+You may only perform this action upto maximum 500 number of times within 86400 seconds
+None
